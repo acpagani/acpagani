@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acpagani
 - 👀 I’m interested in getting experience and learning codes
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently doing Software Engeneering on FIAP
 - 💞️ I’m looking to collaborate on community projects
 - 📫 How to reach me: arthurpagani00@gmail.com
 
