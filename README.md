@@ -1,7 +1,6 @@
 ## Hi! I'm Arthur Pagani
-- 👀 I’m interested in getting experience and learning codes
-- 🌱 I’m currently doing Software Engeneering on FIAP
-- 💞️ I’m looking to collaborate on community projects
+- 👀 I’m really interested in getting experience and learning
+- 🌱 I’m currently doing Software Engeneering at FIAP
 - 📫 How to reach me: arthurpagani00@gmail.com
 
 <div>
